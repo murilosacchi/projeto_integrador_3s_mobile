@@ -51,7 +51,7 @@ A aplicação busca otimizar a gestão de equipamentos de combate a incêndio, f
 Contribuições são bem-vindas! Caso tenha sugestões ou encontre problemas, sinta-se à vontade para abrir um issue ou enviar um pull request.
 
 # Nota
-Essa é a versão para dispositivos móveis que possui de maneira complementar vínculo com o repositório [desktop]((https://github.com/murilosacchi/projeto_integrador_3s)).
+Essa é a versão para dispositivos móveis que possui de maneira complementar vínculo com o repositório [desktop](https://github.com/murilosacchi/projeto_integrador_3s).
 
 # Links Relevantes
 - [Figma](https://www.figma.com/design/jNDJQ6jvcmyRAn8YvjeCc4/PI---Metro?node-id=78-81&t=wYoA5JxwjsheBRtk-1)
